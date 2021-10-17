@@ -12,6 +12,7 @@ Run data.ipynb to visualize the dataset
 
 # Citation
 '''
+
 @article{liang2021deep,
   title={A deep learning method for motor fault diagnosis based on a capsule network with gate-structure dilated convolutions},
   author={Liang, Yu and Li, Binbin and Jiao, Bin},
@@ -21,4 +22,5 @@ Run data.ipynb to visualize the dataset
   year={2021},
   publisher={Springer}
 }
+
 '''
